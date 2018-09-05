@@ -1,2 +1,2 @@
-# tesorflow
+# tensorflow
 restudy tensorflow
