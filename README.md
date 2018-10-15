@@ -1,2 +1,2 @@
 # tensorflow
-restudy tensorflow
+demo tensorflow
